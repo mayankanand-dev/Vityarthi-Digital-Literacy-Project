@@ -1,0 +1,7 @@
+Digital Literacy Infographic — Project Report
+
+For this project, I used **Canva** to design a digital literacy infographic aimed at college students. Canva's drag-and-drop interface made it straightforward to arrange elements, choose a consistent color palette, and work with text boxes and icons without needing advanced design software.
+
+The infographic is structured around four key sections: a concise definition of digital literacy, three essential digital tools for students (Google Scholar, Notion/OneNote, and Canva/Slides), three safe internet practices covering password hygiene, phishing awareness, and privacy, and three email etiquette tips focused on professional communication with professors and peers. The layout uses color-coded cards — teal, coral, and amber — to help viewers quickly distinguish between sections at a glance.
+
+One thing I found interesting was deciding how much information to include per section. Since infographics are meant to be skimmed rather than read in full, I had to keep trimming text until each point felt punchy and self-explanatory. Striking that balance between being informative and staying visually clean turned out to be the most thoughtful part of the process.
