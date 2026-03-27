@@ -65,16 +65,6 @@ Digital literacy refers to the ability to effectively and responsibly use digita
 - Gained experience in building an online presence
 - Developed basic problem-solving and platform-handling skills
 
----
-
-## Links
-
-- GitHub Profile: [Add]
-- LinkedIn Profile: [Add]
-- Google Form: [Add]
-
----
-
 ## Conclusion
 
 This project helped me understand how important digital literacy is in today’s world. I learned how to use different tools, communicate professionally, and stay aware of online risks. These skills will be useful in my academic journey as well as in future professional work, especially when managing digital platforms and maintaining an online presence.
